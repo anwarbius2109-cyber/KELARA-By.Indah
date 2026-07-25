@@ -1,5 +1,20 @@
 [
   {
+    "nama": "The Wedding Of Soleh & Rina",
+    "gambar": "assets/72.png",
+    "link": "https://id.sudahnikah.com/d/Soleh-dan-Rina?kpd=Tamu+Undangan"
+    },
+  {
+    "nama": "The Wedding Of Ninis & Arif",
+    "gambar": "assets/71.png",
+    "link": "https://id.sudahnikah.com/s/1464509/undangan?kpd=Bapak+Budi"
+    },
+  {
+    "nama": "The Wedding Of Indah & Romadhon",
+    "gambar": "assets/70.png",
+    "link": "https://id.sudahnikah.com/d/Indah-dan-Romadhon?kpd=Tamu+Undangan"
+    },
+  {
     "nama": "The Wedding Of Indah & Suko",
     "gambar": "assets/69.png",
     "link": "https://id.sudahnikah.com/d/Indah-dan-Suko?kpd=Tamu+Undangan"
