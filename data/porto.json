@@ -1,5 +1,20 @@
 [
   {
+    "nama": "The Wedding Of Rabbil & Irene",
+    "gambar": "assets/75.png",
+    "link": "https://id.sudahnikah.com/d/Rabbil-dan-Irene?kpd=Tamu+Undangan"
+    },
+  {
+    "nama": "The Wedding Of Alam & Via",
+    "gambar": "assets/74.png",
+    "link": "https://id.sudahnikah.com/d/Alam-dan-Via?kpd=Bapak+Budi"
+    },
+  {
+    "nama": "The Wedding Of Ama & Agung",
+    "gambar": "assets/73.png",
+    "link": "https://id.sudahnikah.com/d/Ama-dan-Agung?kpd=Tamu+Undangan"
+    },
+  {
     "nama": "The Wedding Of Soleh & Rina",
     "gambar": "assets/72.png",
     "link": "https://id.sudahnikah.com/d/Soleh-dan-Rina?kpd=Tamu+Undangan"
