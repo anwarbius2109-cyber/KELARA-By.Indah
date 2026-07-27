@@ -8,7 +8,7 @@
   <meta property="og:title" content="MSA Invitation" />
   
   <meta property="og:description" 
-  content="Pilih tema undangan digital elegan & modern. Bisa custom sesuai keinginan kamu 💌" />
+  content="Pilih tema undangan digital elegan & modern. Proses Expres hasil maksimal 💌" />
   
   <meta property="og:image" 
   content="https://msa-invitation-id.vercel.app/assets/MSA H.png" />
@@ -83,7 +83,8 @@
   Reseller
 </a>
 
-      <a href="https://wa.me/6281261233730"
+      <a href="https://wa.me/6281261233730?text=Basic%0APremium%0AExclusiv"
+
         target="_blank"
         class="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition">
 
@@ -137,7 +138,7 @@
   Reseller
 </a>
 
-    <a href="https://wa.me/6281261233730"
+    <a href="https://wa.me/6281261233730?text=Basic%0APremium%0AExclusiv"
       target="_blank"
       class="block text-center bg-black text-white py-2 rounded-full">
 
@@ -194,7 +195,7 @@
 
       </a>
 
-      <a href="https://wa.me/6281261233730"
+      <a href="https://wa.me/6281261233730?text=Mau%20Tanya%20Dulu%20Kak"
         target="_blank"
         class="px-6 py-3 rounded-full bg-white border hover:bg-gray-100 transition">
 
@@ -861,18 +862,37 @@ class="grid !grid-cols-2 lg:!grid-cols-5 gap-4 scroll-mt-36">
 
   </div>
 
-</section>   
+</section> <!-- tutup testimoni -->
+
 <section id="porto" class="max-w-6xl mx-auto px-4 py-16" data-aos="fade-up">
 
   <h2 class="text-2xl font-bold text-center mb-10">
     Portfolio Kami
   </h2>
 
-   <p class="text-center max-w-2xl mx-auto mb-10 opacity-80">
-      Hasil Undangan Digital Yang Kami Buat Dengan Sepenuh Hati
-    </p>
-      
+  <p class="text-center max-w-2xl mx-auto mb-10 opacity-80">
+    Hasil Undangan Digital Yang Kami Buat Dengan Sepenuh Hati
+  </p>
+
   <div id="portoList" class="porto-grid"></div>
+
+  <div class="flex justify-center items-center gap-3 mt-8">
+    
+    <button id="prevPorto"
+      class="px-4 py-2 rounded-full border hover:bg-gray-100 transition">
+      ← Prev
+    </button>
+
+    <span id="pageInfo" class="text-sm font-medium"></span>
+
+    <button id="nextPorto"
+      class="px-4 py-2 rounded-full border hover:bg-gray-100 transition">
+      Next →
+    </button>
+
+  </div>
+
+</section>
   
 <!-- SECTION SHOPEE -->
 <section class="py-20">
@@ -948,7 +968,7 @@ class="grid !grid-cols-2 lg:!grid-cols-5 gap-4 scroll-mt-36">
 
           <!-- Button -->
           <a 
-            href="https://shopee.co.id/product/99830023/41450563672/"
+            href="https://shopee.co.id/product/99830023/15789569960/"
             target="_blank"
             class="inline-flex items-center gap-3 bg-orange-500 hover:bg-orange-600 text-white font-semibold px-8 py-4 rounded-2xl transition-all duration-300 hover:scale-105"
           >
@@ -1148,7 +1168,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 <!-- FLOATING WHATSAPP -->
-<a href="https://wa.me/6281261233730"
+<a href="https://wa.me/6281261233730?text=Basic%0APremium%0AExclusiv"
    target="_blank"
    class="fixed bottom-5 right-5 z-50 flex items-center gap-3 bg-green-500 text-white px-5 py-3 rounded-full shadow-2xl hover:scale-105 transition duration-300">
 
