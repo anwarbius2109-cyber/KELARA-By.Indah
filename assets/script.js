@@ -113,14 +113,14 @@ Saya mau pesan undangan
           <a href="${item.link}" target="_blank"
           class="w-full text-center bg-black text-white py-3 rounded-xl text-sm font-semibold active:scale-95 transition">
 
-            Demo
+            👁️ Lihat Demo
 
           </a>
 
           <a href="${linkWA}" target="_blank"
           class="w-full text-center bg-green-500 text-white py-3 rounded-xl text-sm font-semibold active:scale-95 transition">
 
-            Order
+            💬 Pesan Sekarang
 
           </a>
 
