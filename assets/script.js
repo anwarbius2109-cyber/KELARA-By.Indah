@@ -113,7 +113,7 @@ Saya mau pesan undangan
           <a href="${item.link}" target="_blank"
           class="w-full text-center bg-black text-white py-3 rounded-xl text-sm font-semibold active:scale-95 transition">
 
-            Preview
+            Demo
 
           </a>
 
