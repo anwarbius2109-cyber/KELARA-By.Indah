@@ -422,3 +422,47 @@ a{
   }
 
 }
+
+/* =========================
+   HERO PHONE
+========================= */
+
+@keyframes float {
+  0%{
+    transform: translateY(0);
+  }
+
+  50%{
+    transform: translateY(-12px);
+  }
+
+  100%{
+    transform: translateY(0);
+  }
+}
+
+.animate-float{
+  animation: float 4s ease-in-out infinite;
+}
+
+.hero-phone{
+  filter: drop-shadow(0 30px 60px rgba(0,0,0,.25));
+}
+
+.hero-glow{
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle, rgba(251,191,36,.25), transparent 70%);
+  filter: blur(80px);
+  z-index: -1;
+}
+
+/* Mobile */
+@media(max-width:768px){
+
+  .hero-phone{
+    width: 260px !important;
+    margin: 40px auto 0;
+  }
+
+}
