@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Melayu Padang",
+    "gambar": "assets/katalog/Melayu Padang.webp",
+    "link": "https://msainvitation.com/preview/melayu-padang",
+    "kategori": "wedding",
+    "keyword": ["adat","melayu","gold","hijau","montion"]
+},
+{
     "nama": "Pink Party",
     "gambar": "assets/katalog/Pink Party.webp",
     "link": "https://msainvitation.com/preview/pink-party",
