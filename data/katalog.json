@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Pink Party",
+    "gambar": "assets/katalog/Pink Party.webp",
+    "link": "https://msainvitation.com/preview/pink-party",
+    "kategori": "ulangtahun",
+    "keyword": ["pink","romantis","soft","birtday","peri"]
+},
+{
     "nama": "Blue Butterflya",
     "gambar": "assets/katalog/Blue Butterflya.webp",
     "link": "https://msainvitation.com/preview/blue-butterfly",
