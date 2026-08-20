@@ -1,5 +1,12 @@
 [
   {
+     "nama": "Sage Watercolor",
+    "gambar": "assets/katalog/Sage Watercolor.webp",
+    "link": "https://msainvitation.com/preview/sage-watercolor",
+    "kategori": "kartun",
+    "keyword": ["sage","syar'i","soft","islami","kartun"]
+},
+{
     "nama": "Melayu Padang",
     "gambar": "assets/katalog/Melayu Padang.webp",
     "link": "https://msainvitation.com/preview/melayu-padang",
