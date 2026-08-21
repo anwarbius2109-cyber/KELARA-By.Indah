@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Jawa Lampung",
+    "gambar": "assets/katalog/Jawa Lampung.webp",
+    "link": "https://msainvitation.com/preview/jawa-lampung",
+    "kategori": "wedding",
+    "keyword": ["kuning","hijau","slide","rumah","adat"]
+},
+{
+    "nama": "Melayu Pastel",
+    "gambar": "assets/katalog/Melayu Pastel.webp",
+    "link": "https://msainvitation.com/preview/melayu-pastel",
+    "kategori": "wedding",
+    "keyword": ["melayu","ungu","montion","bunga","adat"]
+},
+{
     "nama": "Maroon Aceh",
     "gambar": "assets/katalog/Maroon Aceh.webp",
     "link": "https://msainvitation.com/preview/maroon-aceh",
