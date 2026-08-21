@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Mandarin",
+    "gambar": "assets/katalog/Mandarin.webp",
+    "link": "https://msainvitation.com/preview/mandarin",
+    "kategori": "wedding",
+    "keyword": ["chines","merah","slide","gold","cina"]
+},
+{
     "nama": "Jawa Lampung",
     "gambar": "assets/katalog/Jawa Lampung.webp",
     "link": "https://msainvitation.com/preview/jawa-lampung",
