@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Dayak Kalbar",
+    "gambar": "assets/katalog/Dayak Kalbar.webp",
+    "link": "https://msainvitation.com/preview/dayak-kalbar",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","coklat","papua","hitam"]
+},
+{
+  "nama": "Play Khitan",
+    "gambar": "assets/katalog/Play Khitan.webp",
+    "link": "https://msainvitation.com/preview/play-khitan",
+    "kategori": "khitanan",
+    "keyword": ["khitanan","hitam","anak","biru"]
+},
+{
+    "nama": "Cinderella",
+    "gambar": "assets/katalog/Cinderella.webp",
+    "link": "https://msainvitation.com/preview/cinderella",
+    "kategori": "ulangtahun",
+    "keyword": ["salju","prozen","anak","ulang tahun","es"]
+},
+{
+  "nama": "Jawa Biru",
+    "gambar": "assets/katalog/Jawa Biru.webp",
+    "link": "https://msainvitation.com/preview/jawa-biru",
+    "kategori": "tanpafoto",
+    "keyword": ["wayang","biru","adat","jawa","putih"]
+},
+{
     "nama": "MCQUEEN",
     "gambar": "assets/katalog/MCQUEEN.webp",
     "link": "https://msainvitation.com/preview/mcqueen",
