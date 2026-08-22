@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Mickey Red",
+    "gambar": "assets/katalog/Mickey Red.webp",
+    "link": "https://msainvitation.com/preview/mickey-red",
+    "kategori": "ulangtahun",
+    "keyword": ["merah","pikachu","anak","ulang tahun","balon"]
+},
+{
+    "nama": "Beautiful Aqsa",
+    "gambar": "assets/katalog/Beautiful Aqsa.webp",
+    "link": "https://msainvitation.com/preview/beautiful-aqsa",
+    "kategori": "tanpafoto",
+    "keyword": ["islami","masjid","biru","hijau"]
+},
+{
     "nama": "Sanrio",
     "gambar": "assets/katalog/Sanrio.webp",
     "link": "https://msainvitation.com/preview/sanrio",
