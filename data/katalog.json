@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Sanrio",
+    "gambar": "assets/katalog/Sanrio.webp",
+    "link": "https://msainvitation.com/preview/sanrio",
+    "kategori": "ulangtahun",
+    "keyword": ["pink","pikachu","anak","ulang tahun","chibi"]
+},
+{
+    "nama": "Emerald Ampera",
+    "gambar": "assets/katalog/Emerald Ampera.webp",
+    "link": "https://msainvitation.com/preview/emerald-ampera",
+    "kategori": "wedding",
+    "keyword": ["adat","gold","dedaunan","hijau"]
+},
+{
     "nama": "Chestnut Art",
     "gambar": "assets/katalog/Chestnut Art.webp",
     "link": "https://msainvitation.com/preview/chestnut-art",
