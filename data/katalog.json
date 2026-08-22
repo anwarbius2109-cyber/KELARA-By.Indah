@@ -1,5 +1,12 @@
 [
   {
+    "nama": "MCQUEEN",
+    "gambar": "assets/katalog/MCQUEEN.webp",
+    "link": "https://msainvitation.com/preview/mcqueen",
+    "kategori": "ulangtahun",
+    "keyword": ["merah","cars","anak","ulang tahun","mobil"]
+},
+{
     "nama": "Bugis Emerald",
     "gambar": "assets/katalog/Bugis Emerald.webp",
     "link": "https://msainvitation.com/preview/bugis-emerald",
