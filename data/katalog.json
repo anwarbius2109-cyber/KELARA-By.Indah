@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Maroon Art",
+    "gambar": "assets/katalog/Maroon Art.webp",
+    "link": "https://msainvitation.com/preview/maroon-art",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","maroon"]
+},
+{
+  "nama": "Phinisi",
+    "gambar": "assets/katalog/Phinisi.webp",
+    "link": "https://msainvitation.com/preview/phinisi",
+    "kategori": "wedding",
+    "keyword": ["montion","maroon","merah","3d"]
+},
+{
+    "nama": "Kerawang Gayo",
+    "gambar": "assets/katalog/Kerawang Gayo.webp",
+    "link": "https://msainvitation.com/preview/kerawang-gayo",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","gayo","hitam","gold"]
+},
+{
     "nama": "Adat Bone",
     "gambar": "assets/katalog/Adat Bone.webp",
     "link": "https://msainvitation.com/preview/adat-bone",
