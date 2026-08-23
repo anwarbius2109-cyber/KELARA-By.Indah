@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Jawa x Bugis",
+    "gambar": "assets/katalog/Jawa x Bugis.webp",
+    "link": "https://msainvitation.com/preview/jawa-bugis",
+    "kategori": "wedding",
+    "keyword": ["adat","bugis","hijau"]
+},
+{
+  "nama": "FIXNIKAH",
+    "gambar": "assets/katalog/FIXNIKAH.webp",
+    "link": "https://msainvitation.com/preview/nikahfix",
+    "kategori": "wedding",
+    "keyword": ["netflix","merah","kekinian","populer"]
+},
+{
     "nama": "Cinnamoroll",
     "gambar": "assets/katalog/Cinnamoroll.webp",
     "link": "https://msainvitation.com/preview/cinnamoroll",
