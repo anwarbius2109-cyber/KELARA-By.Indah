@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Vintage Cream",
+    "gambar": "assets/katalog/Vintage Creame.webp",
+    "link": "https://msainvitation.com/preview/vintage-cream",
+    "kategori": "wedding",
+    "keyword": ["purple","ungu","simple","cream"]
+},
+{
+    "nama": "Watercolor Peacock",
+    "gambar": "assets/katalog/Watercolor Peacock.webp",
+    "link": "https://msainvitation.com/preview/watercolor-peacock",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","simple","cream","merak"]
+},
+{
+    "nama": "Minang Maroon",
+    "gambar": "assets/katalog/Minang Maroon.webp",
+    "link": "https://msainvitation.com/preview/minang-maroon",
+    "kategori": "wedding",
+    "keyword": ["maroon","cream","dedaunan","adat"]
+},
+{
     "nama": "Cream Purple",
     "gambar": "assets/katalog/Cream Purple.webp",
     "link": "https://msainvitation.com/preview/cream-purple",
