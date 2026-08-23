@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Cream Purple",
+    "gambar": "assets/katalog/Cream Purple.webp",
+    "link": "https://msainvitation.com/preview/cream-purple",
+    "kategori": "wedding",
+    "keyword": ["purple","ungu","simple","populer"]
+},
+{
+    "nama": "Blue Casanova",
+    "gambar": "assets/katalog/Blue Casanova.webp",
+    "link": "https://msainvitation.com/preview/blue-casanova",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","simple","cream","bunga"]
+},
+{
+    "nama": "Aysha",
+    "gambar": "assets/katalog/Aysha.webp",
+    "link": "https://msainvitation.com/preview/aysha",
+    "kategori": "wedding",
+    "keyword": ["kekinian","cream","populer","putih"]
+},
+{
     "nama": "Maroon Art",
     "gambar": "assets/katalog/Maroon Art.webp",
     "link": "https://msainvitation.com/preview/maroon-art",
