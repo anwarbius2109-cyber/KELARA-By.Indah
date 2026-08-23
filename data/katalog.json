@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Red Blue",
+    "gambar": "assets/katalog/Red Blue.jpg",
+    "link": "https://msainvitation.com/preview/red-blue",
+    "kategori": "aqiqah",
+    "keyword": ["biru","putih","anak","aqiqah"]
+},
+{
     "nama": "Cream Cute",
     "gambar": "assets/katalog/Cream Cute.webp",
     "link": "https://msainvitation.com/preview/cream-cute",
