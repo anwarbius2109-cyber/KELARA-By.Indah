@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Esther",
+    "gambar": "assets/katalog/Esther.webp",
+    "link": "https://msainvitation.com/preview/esther",
+    "kategori": "wedding",
+    "keyword": ["populer","gold","simple","kekinian"]
+},
+{
     "nama": "Vintage Cream",
     "gambar": "assets/katalog/Vintage Cream.webp",
     "link": "https://msainvitation.com/preview/vintage-cream",
