@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Bugis Pink",
+    "gambar": "assets/katalog/Bugis Pink.webp",
+    "link": "https://msainvitation.com/preview/bugis-pink",
+    "kategori": "wedding",
+    "keyword": ["adat","bugis","pink"]
+},
+{
     "nama": "Red Blue",
     "gambar": "assets/katalog/Red Blue.webp",
     "link": "https://msainvitation.com/preview/red-blue",
