@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Cinnamoroll",
+    "gambar": "assets/katalog/Cinnamoroll.webp",
+    "link": "https://msainvitation.com/preview/cinnamoroll",
+    "kategori": "ulangtahun",
+    "keyword": ["air","awan","anak","biru"]
+},
+{
     "nama": "Black Birthday",
     "gambar": "assets/katalog/Black Birthday.webp",
     "link": "https://msainvitation.com/preview/black-birthday",
