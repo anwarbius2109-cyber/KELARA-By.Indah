@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Golden Watercolor",
+    "gambar": "assets/katalog/Golden Watercolor.webp",
+    "link": "https://msainvitation.com/preview/golden-watercolor",
+    "kategori": "tanpafoto",
+    "keyword": ["gold","simple","bunga"]
+},
+{
     "nama": "Jawa x Bugis",
     "gambar": "assets/katalog/Jawa x Bugis.webp",
     "link": "https://msainvitation.com/preview/jawa-bugis",
