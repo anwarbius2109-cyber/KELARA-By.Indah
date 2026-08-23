@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Cream Cute",
+    "gambar": "assets/katalog/Cream Cute.webp",
+    "link": "https://msainvitation.com/preview/cream-cute",
+    "kategori": "wedding",
+    "keyword": ["cream","kekinian","simple"]
+},
+{
+    "nama": "Pool Party",
+    "gambar": "assets/katalog/Pool Party.webp",
+    "link": "https://msainvitation.com/preview/pool-party",
+    "kategori": "ulangtahun",
+    "keyword": ["air","balon","anak","ulang tahun"]
+},
+{
+    "nama": "Selpia",
+    "gambar": "assets/katalog/Selpia.webp",
+    "link": "https://msainvitation.com/preview/selpia",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","simple","putih","bunga"]
+},
+{
     "nama": "Esther",
     "gambar": "assets/katalog/Esther.webp",
     "link": "https://msainvitation.com/preview/esther",
