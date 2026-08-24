@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Walimatul Khitan",
+    "gambar": "assets/katalog/Walimatul Khitan.jpg",
+    "link": "https://msainvitation.com/preview/walimatul-khitan",
+    "kategori": "khitan",
+    "keyword": ["jawa","khitanan","wayang"]
+},
+{
+    "nama": "Timeless",
+    "gambar": "assets/katalog/Timeless.webp",
+    "link": "https://msainvitation.com/preview/timeless",
+    "kategori": "wedding",
+    "keyword": ["fullfoto","modern","kekinian","populer"]
+},
+{
     "nama": "Sunda x Aceh",
     "gambar": "assets/katalog/Sunda x Aceh.webp",
     "link": "https://msainvitation.com/preview/sunda-aceh",
