@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Sunda x Aceh",
+    "gambar": "assets/katalog/Sunda x Aceh.webp",
+    "link": "https://msainvitation.com/preview/sunda-aceh",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","sunda","aceh","gold"]
+},
+{
+    "nama": "Dayak x Java",
+    "gambar": "assets/katalog/Dayak x Java.webp",
+    "link": "https://msainvitation.com/preview/dayak-java",
+    "kategori": "tanpafoto",
+    "keyword": ["dayak","jawa","wayang","maroon"]
+},
+{
+    "nama": "Biru Jawa",
+    "gambar": "assets/katalog/Biru Jawa.webp",
+    "link": "https://msainvitation.com/preview/biru-jawa",
+    "kategori": "tanpafoto",
+    "keyword": ["polos","bunga","biru","wayang"]
+},
+{
     "nama": "Casanova",
     "gambar": "assets/katalog/Casanova.webp",
     "link": "https://msainvitation.com/preview/casanova",
