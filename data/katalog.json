@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Casanova",
+    "gambar": "assets/katalog/Casanova.webp",
+    "link": "https://msainvitation.com/preview/casanova",
+    "kategori": "tanpafoto",
+    "keyword": ["polos","bunga","pink","gold"]
+},
+{
+    "nama": "Blue Javanese",
+    "gambar": "assets/katalog/Blue Javanese.webp",
+    "link": "https://msainvitation.com/preview/blue-javanese",
+    "kategori": "tanpafoto",
+    "keyword": ["wayang","jawa","biru","polos"]
+},
+{
     "nama": "Black Java",
     "gambar": "assets/katalog/Black Java.webp",
     "link": "https://msainvitation.com/preview/black-java",
