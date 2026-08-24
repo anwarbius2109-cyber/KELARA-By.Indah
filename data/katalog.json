@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Black Java",
+    "gambar": "assets/katalog/Black Java.webp",
+    "link": "https://msainvitation.com/preview/black-java",
+    "kategori": "tanpafoto",
+    "keyword": ["wayang","jawa","hitam","maroon"]
+},
+{
+    "nama": "Little Racer",
+    "gambar": "assets/katalog/Little Racer.webp",
+    "link": "https://msainvitation.com/preview/little-racer",
+    "kategori": "ulangtahun",
+    "keyword": ["mobil","jalan","anak","hitam"]
+},
+{
     "nama": "Golden Watercolor",
     "gambar": "assets/katalog/Golden Watercolor.webp",
     "link": "https://msainvitation.com/preview/golden-watercolor",
