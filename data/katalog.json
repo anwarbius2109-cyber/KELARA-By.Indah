@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Javanese Pastel",
+    "gambar": "assets/katalog/Javanese Pastel.webp",
+    "link": "https://msainvitation.com/preview/javanese-pastel",
+    "kategori": "tanpafoto",
+    "keyword": ["cream","simple","jawa","wayang"]
+},
+{
+    "nama": "Auntumn",
+    "gambar": "assets/katalog/Auntumn.webp",
+    "link": "https://msainvitation.com/preview/auntumn",
+    "kategori": "wedding",
+    "keyword": ["orange","sakura","jepang","kekinian"]
+},
+{
     "nama": "Vintage Moment",
     "gambar": "assets/katalog/Vintage Moment.webp",
     "link": "https://msainvitation.com/preview/vintage-moment",
