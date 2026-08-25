@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Red Carmine",
+    "gambar": "assets/katalog/Red Carmine.webp",
+    "link": "https://msainvitation.com/preview/red-carmine",
+    "kategori": "tanpafoto",
+    "keyword": ["merah","simple","polos"]
+},
+{
+    "nama": "Adat Selaso",
+    "gambar": "assets/katalog/Adat Selaso.webp",
+    "link": "https://msainvitation.com/preview/adat-selaso",
+    "kategori": "wedding",
+    "keyword": ["biru","gold","adat"]
+},
+{
+    "nama": "Cream Japan",
+    "gambar": "assets/katalog/Cream Japan.webp",
+    "link": "https://msainvitation.com/preview/cream-japan",
+    "kategori": "wedding",
+    "keyword": ["cream","sakura","jepang","kekinian"]
+},
+{
     "nama": "Javanese Pastel",
     "gambar": "assets/katalog/Javanese Pastel.webp",
     "link": "https://msainvitation.com/preview/javanese-pastel",
