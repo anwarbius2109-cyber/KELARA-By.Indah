@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Sumbawa Jawa",
+    "gambar": "assets/katalog/Sumbawa Jawa.webp",
+    "link": "https://msainvitation.com/preview/sumbawa-jawa",
+    "kategori": "kartun",
+    "keyword": ["sage","hijau","wayang","jawa","kartun"]
+},
+{
+    "nama": "Daisy Gray",
+    "gambar": "assets/katalog/Daisy Gray.webp",
+    "link": "https://msainvitation.com/preview/daisy-gray",
+    "kategori": "wedding",
+    "keyword": ["putih","cream","populer"]
+},
+{
+    "nama": "Jawa Palembang",
+    "gambar": "assets/katalog/Jawa Palembang.webp",
+    "link": "https://msainvitation.com/preview/jawa-palembang",
+    "kategori": "kartun",
+    "keyword": ["maroon","jawa","soft","merah","kartun"]
+},
+{
     "nama": "Baby Elephant",
     "gambar": "assets/katalog/Baby Elephant.webp",
     "link": "https://msainvitation.com/preview/baby-elephant",
