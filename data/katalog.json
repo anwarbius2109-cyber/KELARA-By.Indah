@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Baby Elephant",
+    "gambar": "assets/katalog/Baby Elephant.webp",
+    "link": "https://msainvitation.com/preview/baby-elephant",
+    "kategori": "ulangtahun",
+    "keyword": ["awan","tanaman","anak","putih"]
+},
+{
+    "nama": "Adat Rote",
+    "gambar": "assets/katalog/Adat Rote.webp",
+    "link": "https://msainvitation.com/preview/adat-rote",
+    "kategori": "wedding",
+    "keyword": ["coklat","gold","adat"]
+},
+{
+    "nama": "Bunny Pastel",
+    "gambar": "assets/katalog/Bunny Pastel.webp",
+    "link": "https://msainvitation.com/preview/bunny-pastel",
+    "kategori": "ulangtahun",
+    "keyword": ["kelinci","tanaman","anak","coklat"]
+},
+{
     "nama": "Javanese Purple",
     "gambar": "assets/katalog/Javanese Purple.webp",
     "link": "https://msainvitation.com/preview/javanese-purple",
