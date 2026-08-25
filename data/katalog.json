@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Minimalist Black",
+    "gambar": "assets/katalog/Minimalist Black.jpg",
+    "link": "https://msainvitation.com/preview/minimalist-black",
+    "kategori": "wedding",
+    "keyword": ["hitam","fullfoto","populer"]
+},
+{
+    "nama": "Vine Flower",
+    "gambar": "assets/katalog/Vine Flower.jpg",
+    "link": "https://msainvitation.com/preview/vine-flower",
+    "kategori": "tanpafoto",
+    "keyword": ["cream","coklat","polos"]
+},
+{
+    "nama": "Classic Blue",
+    "gambar": "assets/katalog/Classic Blue.jpg",
+    "link": "https://msainvitation.com/preview/classic-blue",
+    "kategori": "wedding",
+    "keyword": ["putih","biru","bunga"]
+},
+{
+    "nama": "Betawi Vintage",
+    "gambar": "assets/katalog/Betawi Vintage.jpg",
+    "link": "https://msainvitation.com/preview/betawi-vintage",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","biru","hijau"]
+},
+{
     "nama": "Spiderman",
     "gambar": "assets/katalog/Spiderman.webp",
     "link": "https://msainvitation.com/preview/spiderman",
