@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Javanese Purple",
+    "gambar": "assets/katalog/Javanese Purple.webp",
+    "link": "https://msainvitation.com/preview/javanese-purple",
+    "kategori": "tanpafoto",
+    "keyword": ["ungu","jawa","wayanng"]
+},
+{
+    "nama": "Dark Brown",
+    "gambar": "assets/katalog/Dark Brown.webp",
+    "link": "https://msainvitation.com/preview/dark-brown",
+    "kategori": "wedding",
+    "keyword": ["hitam","gold","adat"]
+},
+{
+    "nama": "Birthday Beach",
+    "gambar": "assets/katalog/Birthday Beach.webp",
+    "link": "https://msainvitation.com/preview/birthday-beach",
+    "kategori": "ulangtahun",
+    "keyword": ["pantai","tanaman","anak","air"]
+},
+{
     "nama": "Red Carmine",
     "gambar": "assets/katalog/Red Carmine.webp",
     "link": "https://msainvitation.com/preview/red-carmine",
