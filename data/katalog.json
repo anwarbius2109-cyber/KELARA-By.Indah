@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Colored Beach",
+    "gambar": "assets/katalog/Colored Beach.webp",
+    "link": "https://msainvitation.com/preview/colored-beach",
+    "kategori": "wedding",
+    "keyword": ["putih","cream","populer","pantai"]
+},
+{
+    "nama": "Galungan",
+    "gambar": "assets/katalog/Galungan.webp",
+    "link": "https://msainvitation.com/preview/galungan",
+    "kategori": "tanpafoto",
+    "keyword": ["bali","coklat","kuning"]
+},
+{
     "nama": "Sumbawa Jawa",
     "gambar": "assets/katalog/Sumbawa Jawa.webp",
     "link": "https://msainvitation.com/preview/sumbawa-jawa",
