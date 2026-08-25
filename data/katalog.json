@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Spiderman",
+    "gambar": "assets/katalog/Spiderman.webp",
+    "link": "https://msainvitation.com/preview/spiderman",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","merah","anak","hitam"]
+},
+{
     "nama": "Colored Beach",
     "gambar": "assets/katalog/Colored Beach.webp",
     "link": "https://msainvitation.com/preview/colored-beach",
