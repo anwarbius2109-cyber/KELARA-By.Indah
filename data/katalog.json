@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Sakura Castle",
+    "gambar": "assets/katalog/Sakura Castle.jpg",
+    "link": "https://msainvitation.com/preview/sakura-castle",
+    "kategori": "wedding",
+    "keyword": ["pink","bunga","jepang"]
+},
+{
+    "nama": "Soft Brown",
+    "gambar": "assets/katalog/Soft Brown.webp",
+    "link": "https://msainvitation.com/preview/soft-brown",
+    "kategori": "tanpafoto",
+    "keyword": ["cream","gold","polos"]
+},
+{
     "nama": "Purple Flowers",
     "gambar": "assets/katalog/Purple Flowers.jpg",
     "link": "https://msainvitation.com/preview/purple-flowers",
