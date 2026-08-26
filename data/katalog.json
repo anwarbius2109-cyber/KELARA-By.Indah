@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Purple Flowers",
+    "gambar": "assets/katalog/Purple Flowers.jpg",
+    "link": "https://msainvitation.com/preview/purple-flowers",
+    "kategori": "wedding",
+    "keyword": ["biru","bunga","simple"]
+},
+{
     "nama": "Green Passport",
     "gambar": "assets/katalog/Green Passport.jpg",
     "link": "https://msainvitation.com/preview/green-passport",
