@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Vintage Forest",
+    "gambar": "assets/katalog/Vintage Forest.jpg",
+    "link": "https://msainvitation.com/preview/vintage-forest",
+    "kategori": "wedding",
+    "keyword": ["hewan","populer","tumbuhan","kekinian"]
+},
+{
+    "nama": "Dayak Toraja",
+    "gambar": "assets/katalog/Dayak Toraja.jpg",
+    "link": "https://msainvitation.com/preview/dayak-toraja",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","dayak","orange"]
+},
+{
+    "nama": "Pastel Blue",
+    "gambar": "assets/katalog/Pastel Blue.jpg",
+    "link": "https://msainvitation.com/preview/pastel-blue",
+    "kategori": "wedding",
+    "keyword": ["Korea","populer","pink"]
+},
+{
     "nama": "Rama Shinta",
     "gambar": "assets/katalog/Rama Shinta.jpg",
     "link": "https://msainvitation.com/preview/rama-shinta",
