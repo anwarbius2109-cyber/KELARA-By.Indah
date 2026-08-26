@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Minangkabau Maroon",
+    "gambar": "assets/katalog/Minangkabau Maroon.jpg",
+    "link": "https://msainvitation.com/preview/minangkabau-maroon",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","padang","coklat"]
+},
+{
+    "nama": "Light Blue Flowers",
+    "gambar": "assets/katalog/Light Blue Flowers.jpg",
+    "link": "https://msainvitation.com/preview/light-blue-flowers",
+    "kategori": "wedding",
+    "keyword": ["biru","bunga","maroon"]
+},
+{
     "nama": "Golden Blue",
     "gambar": "assets/katalog/Golden Blue.jpg",
     "link": "https://msainvitation.com/preview/golden-blue",
