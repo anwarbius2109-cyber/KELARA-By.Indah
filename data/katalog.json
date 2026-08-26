@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Green Passport",
+    "gambar": "assets/katalog/Green Passport.jpg",
+    "link": "https://msainvitation.com/preview/green-passport",
+    "kategori": "wedding",
+    "keyword": ["sage","paspor","cream"]
+},
+{
+    "nama": "Blue Seventeen",
+    "gambar": "assets/katalog/Blue Seventeen.jpg",
+    "link": "https://msainvitation.com/preview/blue-seventeen",
+    "kategori": "party&dinner",
+    "keyword": ["biru","romantis","soft","birtday","putih"]
+},
+{
     "nama": "Minimalist Black",
     "gambar": "assets/katalog/Minimalist Black.jpg",
     "link": "https://msainvitation.com/preview/minimalist-black",
