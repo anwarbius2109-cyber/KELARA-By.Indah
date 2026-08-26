@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Palembang x Jawa",
+    "gambar": "assets/katalog/Palembang x Jawa.jpg",
+    "link": "https://msainvitation.com/preview/palembang-jawa",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","merah"]
+},
+{
+    "nama": "Padang Maroon",
+    "gambar": "assets/katalog/Padang Maroon.jpg",
+    "link": "https://msainvitation.com/preview/padang-maroon",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","coklat","gadang"]
+},
+{
+    "nama": "Raden",
+    "gambar": "assets/katalog/Raden.jpg",
+    "link": "https://msainvitation.com/preview/raden",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","hitam"]
+},
+{
+    "nama": "Watercolor Bird",
+    "gambar": "assets/katalog/Watercolor Bird.jpg",
+    "link": "https://msainvitation.com/preview/watercolor-bird",
+    "kategori": "wedding",
+    "keyword": ["pink","soft"]
+},
+{
     "nama": "Betawi Minang",
     "gambar": "assets/katalog/Betawi Minang.jpg",
     "link": "https://msainvitation.com/preview/betawi-minang",
