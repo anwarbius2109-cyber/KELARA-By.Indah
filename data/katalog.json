@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Betawi Minang",
+    "gambar": "assets/katalog/Betawi Minang.jpg",
+    "link": "https://msainvitation.com/preview/betawi-minang",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","coklat","slide"]
+},
+{
     "nama": "Purple Marble",
     "gambar": "assets/katalog/Purple Marble.jpg",
     "link": "https://msainvitation.com/preview/purple-marble",
