@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Purple Marble",
+    "gambar": "assets/katalog/Purple Marble.jpg",
+    "link": "https://msainvitation.com/preview/purple-marble",
+    "kategori": "tanpafoto",
+    "keyword": ["polos","putih","ungu"]
+},
+{
+    "nama": "Red Football",
+    "gambar": "assets/katalog/Red Football.jpg",
+    "link": "https://msainvitation.com/preview/red-football",
+    "kategori": "ulangtahun",
+    "keyword": ["ronaldo","Bola","anak","merah"]
+},
+{
     "nama": "Maroon Medieval",
     "gambar": "assets/katalog/Maroon Medieval.jpg",
     "link": "https://msainvitation.com/preview/maroon-medieval",
@@ -70,7 +84,7 @@
     "keyword": ["biru","romantis","soft","birtday"]
 },
 {
-  "nama": "Birthday Bus",
+    "nama": "Birthday Bus",
     "gambar": "assets/katalog/Birthday Bus.jpg",
     "link": "https://msainvitation.com/preview/birthday-bus",
     "kategori": "ulangtahun",
