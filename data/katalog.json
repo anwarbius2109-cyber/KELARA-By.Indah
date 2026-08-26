@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Maroon Medieval",
+    "gambar": "assets/katalog/Maroon Medieval.jpg",
+    "link": "https://msainvitation.com/preview/maroon-medieval",
+    "kategori": "tanpafoto",
+    "keyword": ["islami","dedaunan","marron"]
+},
+{
+    "nama": "Bugis Maroon",
+    "gambar": "assets/katalog/Bugis Maroon.jpg",
+    "link": "https://msainvitation.com/preview/bugis-maroon",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","dayak","maroon"]
+},
+{
     "nama": "Vintage Forest",
     "gambar": "assets/katalog/Vintage Forest.jpg",
     "link": "https://msainvitation.com/preview/vintage-forest",
