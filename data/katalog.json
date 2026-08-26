@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Golden Blue",
+    "gambar": "assets/katalog/Golden Blue.jpg",
+    "link": "https://msainvitation.com/preview/golden-blue",
+    "kategori": "party&dinner",
+    "keyword": ["biru","romantis","soft","birtday"]
+},
+{
+  "nama": "Birthday Bus",
+    "gambar": "assets/katalog/Birthday Bus.jpg",
+    "link": "https://msainvitation.com/preview/birthday-bus",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","tayo","anak","mobil"]
+},
+{
     "nama": "Sakura Castle",
     "gambar": "assets/katalog/Sakura Castle.jpg",
     "link": "https://msainvitation.com/preview/sakura-castle",
