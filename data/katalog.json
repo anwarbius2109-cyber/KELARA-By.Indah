@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Jawa x Melayu",
+    "gambar": "assets/katalog/Jawa x Melayu.jpg",
+    "link": "https://msainvitation.com/preview/jawa-melayu",
+    "kategori": "kartun",
+    "keyword": ["adat","jawa","wayang","merah"]
+},
+{
+    "nama": "Wayang Jawa",
+    "gambar": "assets/katalog/Wayang Jawa.jpg",
+    "link": "https://msainvitation.com/preview/wayang-jawa",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","merah"]
+},
+{
+    "nama": "Sakura Theme",
+    "gambar": "assets/katalog/Sakura Theme.jpg",
+    "link": "https://msainvitation.com/preview/sakura-theme",
+    "kategori": "tanpafoto",
+    "keyword": ["bunga","cream"]
+},
+{
     "nama": "Palembang x Jawa",
     "gambar": "assets/katalog/Palembang x Jawa.jpg",
     "link": "https://msainvitation.com/preview/palembang-jawa",
